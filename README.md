@@ -1,6 +1,6 @@
 Keytracker - Ethical Keylogger
 Description
-Keytracker is a simple, ethical keylogger written in Python for educational purposes. It is designed to demonstrate how keystroke logging works and to highlight the importance of cybersecurity.
+Keytracker is a simple,  keylogger written in Python for educational purposes. It is designed to demonstrate how keystroke logging works and to highlight the importance of cybersecurity.
 
 Features
 Records all keystrokes made on the keyboard.
